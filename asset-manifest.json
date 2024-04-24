@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https//alekhyapalikala.github.io/react/static/css/main.9a93a5ae.css",
+    "main.js": "/https//alekhyapalikala.github.io/react/static/js/main.2b5cf4d7.js",
+    "static/js/453.1da5f1a6.chunk.js": "/https//alekhyapalikala.github.io/react/static/js/453.1da5f1a6.chunk.js",
+    "index.html": "/https//alekhyapalikala.github.io/react/index.html",
+    "main.9a93a5ae.css.map": "/https//alekhyapalikala.github.io/react/static/css/main.9a93a5ae.css.map",
+    "main.2b5cf4d7.js.map": "/https//alekhyapalikala.github.io/react/static/js/main.2b5cf4d7.js.map",
+    "453.1da5f1a6.chunk.js.map": "/https//alekhyapalikala.github.io/react/static/js/453.1da5f1a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a93a5ae.css",
+    "static/js/main.2b5cf4d7.js"
+  ]
+}
