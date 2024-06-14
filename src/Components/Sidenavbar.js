@@ -11,7 +11,7 @@ import { Link } from 'react-router-dom';
 import LocalGroceryStoreIcon from '@mui/icons-material/LocalGroceryStore';
 function Sidenavbar() {
   return (
-    <div>
+    <div className="sidenavbar">
       <h5><IcecreamOutlinedIcon/>DESERT DELIGHT</h5>
     <Link to='/'><p><HomeIcon/>Dashboard</p></Link>
     <Link to='/Statistics'><p><AnalyticsIcon/>Statistics</p></Link>
