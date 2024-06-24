@@ -1,8 +1,7 @@
 .one{
-
   background-color:darkgray;
-  height: 100vh;
  padding-top:7%;
+  height:100vh;
  
 
   
@@ -10,7 +9,7 @@
 }
 .sidenavbar{
  height:100vh;
- background color:#a9a9a9;
+ background-color:#a9a9a9;
 }
 .one p{
   margin:15%;
