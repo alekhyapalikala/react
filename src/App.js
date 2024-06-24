@@ -30,7 +30,7 @@ function App() {
     </Col>
     <Col sm={10}>
     <Routes>
-    <Route path='/'exact Component={Dashboard}/>
+    <Route path='/react'exact Component={Dashboard}/>
    
       <Route path='/Statistics' exact Component={Statistics}/>
       <Route path='/Services' exact Component={Services}/>
