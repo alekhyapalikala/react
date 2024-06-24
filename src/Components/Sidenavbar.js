@@ -13,7 +13,7 @@ function Sidenavbar() {
   return (
     <div className="sidenavbar">
       <h5><IcecreamOutlinedIcon/>DESERT DELIGHT</h5>
-    <Link to='/'><p><HomeIcon/>Dashboard</p></Link>
+    <Link to='/react'><p><HomeIcon/>Dashboard</p></Link>
     <Link to='/Statistics'><p><AnalyticsIcon/>Statistics</p></Link>
     <Link to='/Services'> <p><LocalGroceryStoreIcon />Products</p></Link>
     <Link to='/Tasklist'><p><WindowIcon/>Task list</p></Link>
